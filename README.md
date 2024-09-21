@@ -16,9 +16,9 @@ I am an aspiring computer scientist, passionate about **coding**, **tech**, and 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=verilog&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
-## :globe_with_meridians: Connect With Me!
+## :mailbox: Connect With Me!
 [**LinkedIn**][LinkedIn]<br>
-[**Email**](mailto:sh882423@ucf.edu)<br>
+Email Me!: <youremail@example.com><br>
 
 <p align="center">
     <b>Looking for a proactrive, passionate, and focused computer science intern?<br>

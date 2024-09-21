@@ -7,24 +7,27 @@ I am an aspiring computer scientist, passionate about **coding**, **tech**, and 
 :tv: Fun fact: I love watching new shows, cats, and solving problems!
 
 ## :seedling: Current Coursework
-:infinity: Calculus 2
-:computer: Introduction to Programming with C
-:bug: Biology 1
-:performing_arts: Theatre Survey
+:infinity: Calculus 2<br>
+:computer: Introduction to Programming with C<br>
+:bug: Biology 1<br>
+:performing_arts: Theatre Survey<br>
 
 ## :wrench: Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=verilog&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
 ## :globe_with_meridians: Connect With Me!
-<a href="sh882423@ucf.edu">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
+[**LinkedIn**][LinkedIn]<br>
+[**Gmail**][Gmail]<br>
 
-<a href="https://www.linkedin.com/in/shaderahman">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
+<p align="center">
+    <b>Looking for a hardware design engineering intern?
+        <a href="https://www.linkedin.com/in/shaderahman">Let's connect and talk!</a>
+    </b>
+</p>
 
 [university]: https://www.ucf.edu/
 [UCFACM]: https://www.instagram.com/ucfacm/
 [KnightHacks]: https://www.instagram.com/knighthacks/
+[LinkedIn]: https://www.linkedin.com/in/shaderahman/
+[UCFEmail]: sh882423@ucf.edu

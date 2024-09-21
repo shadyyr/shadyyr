@@ -18,10 +18,10 @@ I am an aspiring computer scientist, passionate about **coding**, **tech**, and 
 
 ## :globe_with_meridians: Connect With Me!
 [**LinkedIn**][LinkedIn]<br>
-[**Gmail**][Gmail]<br>
+[**Gmail**][UCFEmail]<br>
 
 <p align="center">
-    <b>Looking for a hardware design engineering intern?
+    <b>Looking for a proactrive, passionate, and focused computer science intern?
         <a href="https://www.linkedin.com/in/shaderahman">Let's connect and talk!</a>
     </b>
 </p>
@@ -30,4 +30,4 @@ I am an aspiring computer scientist, passionate about **coding**, **tech**, and 
 [UCFACM]: https://www.instagram.com/ucfacm/
 [KnightHacks]: https://www.instagram.com/knighthacks/
 [LinkedIn]: https://www.linkedin.com/in/shaderahman/
-[UCFEmail]: sh882423@ucf.edu
+[UCFEmail]: mailto:sh882423@ucf.edu

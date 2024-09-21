@@ -18,7 +18,7 @@ I am an aspiring computer scientist, passionate about **coding**, **tech**, and 
 
 ## :mailbox: Connect With Me!
 [**LinkedIn**][LinkedIn]<br>
-Email Me!: <youremail@example.com><br>
+[**Email**][UCFEmail]<br>
 
 <p align="center">
     <b>Looking for a proactrive, passionate, and focused computer science intern?<br>
@@ -30,3 +30,4 @@ Email Me!: <youremail@example.com><br>
 [UCFACM]: https://www.instagram.com/ucfacm/
 [KnightHacks]: https://www.instagram.com/knighthacks/
 [LinkedIn]: https://www.linkedin.com/in/shaderahman/
+[UCFEmail]: mailto:sh882423@ucf.edu

@@ -1,2 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyyr&show_icons=true&theme=tokyonight)
-i code stuff i guess
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=i+code+stuff+i+guess...;sometimes+it+even+works)](https://git.io/typing-svg)
